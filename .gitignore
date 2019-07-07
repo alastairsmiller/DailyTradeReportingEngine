@@ -1,0 +1,23 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#IntelliJ
+.idea/**
+*.iml
+
+#Maven
+target/**
+
+#Project specific
+Orders_report/target
+
+**/*.log*
+
+#Other
+.DS_Store
+.idea/
+

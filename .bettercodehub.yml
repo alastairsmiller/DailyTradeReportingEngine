@@ -1,0 +1,5 @@
+exclude:
+- /src/main/java/utils/FakeOrdersGenerator.java
+component_depth: 4
+languages:
+- java
